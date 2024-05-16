@@ -1,7 +1,7 @@
 def main():
     try:
         # Open a file in write mode
-        with open('student_ages.txt', 'w') as file:
+        with open('student_kk.txt', 'w') as file:
             # Ask user for the number of students
             num_students = int(input("Enter the number of students: "))
             
